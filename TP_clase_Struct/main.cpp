@@ -3,8 +3,8 @@
 #include <cstdio>
 #include <cstring>
 using namespace std;
-
-
+#include "rlutil.h"
+using namespace rlutil;
 
 
 
